@@ -1,0 +1,8 @@
+{
+  "appId": "com.martinking.nullsignal",
+  "appName": "Null Signal",
+  "webDir": "www",
+  "backgroundColor": "#06121f",
+  "android": { "allowMixedContent": false },
+  "ios": { "contentInset": "never" }
+}
